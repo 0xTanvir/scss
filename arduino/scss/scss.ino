@@ -1,4 +1,3 @@
-#define relay 10
 int LED = 9;
 int LDR = A0;
 bool ON = false; // LED status
